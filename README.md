@@ -70,4 +70,3 @@ The `resources/glove.6B/` directory contains pretrained GloVe vectors. Loading t
 - Convert notebooks to modular Python scripts for repeatable experiments.
 - Add small unit tests for preprocessing functions.
 - Try fine-tuning a small transformer model on one of the datasets (use Hugging Face Transformers).
-
